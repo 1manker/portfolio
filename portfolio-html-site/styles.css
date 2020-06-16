@@ -118,3 +118,19 @@ body {
 .profile-content-wrapper h1 {
   color: lightseagreen;
 }
+
+.explanations {
+  margin-top: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+  color: lightseagreen;
+  font-weight: 600;
+}
+
+.explanations a:link{
+  color:black;
+}
+
+.explanations a:visited{
+  color:green;
+}
